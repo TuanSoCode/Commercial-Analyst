@@ -9,7 +9,7 @@ I decided to test this assumption. Here is the brutal truth the data revealed.
 ---
 
 ## 📊 The Story in One Picture
-![Retail Sales Analysis]<img width="1789" height="490" alt="1000012677" src="https://github.com/user-attachments/assets/3391f5a0-be3d-45cf-a83a-c764450ba6d5" />
+![Retail Sales Analysis]<img (width="1789" height="490" alt="1000012677" src="https://github.com/user-attachments/assets/3391f5a0-be3d-45cf-a83a-c764450ba6d5" />)
 
 
 ### 1. The Fallacy: Does Discount Increase Sales? (Left Chart)
