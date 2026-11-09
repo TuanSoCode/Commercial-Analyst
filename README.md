@@ -23,5 +23,13 @@ I decided to test this assumption. Here is the brutal truth the data revealed.
 
 ---
 
-## 🎯 The Final Verdict (Business Recommendation)
-Stop discounting immediately. Specifically, **stop discounting Laptops**. You are bleeding money to sell items that customers don't even want at a discount. Shift your entire marketing focus to high-margin Accessories and maintain full price on top-performing products.
+## 💡 The Hypothesis & The Evidence (No Conclusions, Just Facts)
+
+Before looking at the data, I had a hypothesis: **High-ticket items (like Laptops) don't actually need discounts to sell.** If someone genuinely needs a premium product (like buying an iPhone), they will buy it regardless of a 5% or 10% discount. 
+
+The data supports this hypothesis:
+- **The Evidence:** As discounts reached 25%, sales volume didn't increase—it crashed. Meanwhile, the profit margin was obliterated to 0.20%. 
+- **The Culprit:** The category bleeding the most money was Laptops (-$45.95k per order), while Accessories were the only profitable segment.
+
+**The Question for the Client:** 
+*Is your discount strategy actually driving sales, or is it just burning your profit margins on customers who would have paid full price anyway?*
